@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-04-26 09:00:01"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><application_name>ITSM Virtual Agent Conversations</application_name><application_scope>sn_itsm_va</application_scope><application_version>1.0.0</application_version><collisions/><commit_date/><deleted/><description>Automatically created by the system</description><inserted/><name>Virtual Agent </name><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>48758915db45f30019565d50cf961921</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>8dffb1e5dbc1370019565d50cf9619d7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_ui_message_89a50d15db45f30019565d50cf9619ce</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>Thanks for using our support chat! Have a great day!</key><language>en</language><message>Thanks for using our support chat! Have a great day!</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:45</sys_created_on><sys_id>89a50d15db45f30019565d50cf9619ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Thanks for using our support chat! Have a great day!</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_ui_message_89a50d15db45f30019565d50cf9619ce</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:45</sys_updated_on></sys_ui_message></record_update>]]></payload><payload_hash>-704857440</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>15ff35e5dbc1370019565d50cf961905</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f6363f0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>Thanks for using our support chat! Have a great day!</target_name><type>Message</type><update_domain>global</update_domain><update_guid>89a50d15a545f30089fabf38a933fccf</update_guid><update_guid_history>89a50d15a545f30089fabf38a933fccf:-704857440</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_ui_message_38a50d15db45f30019565d50cf9619c5</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>broken</key><language>en</language><message>broken</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:45</sys_created_on><sys_id>38a50d15db45f30019565d50cf9619c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>broken</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_ui_message_38a50d15db45f30019565d50cf9619c5</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:45</sys_updated_on></sys_ui_message></record_update>]]></payload><payload_hash>-1428761876</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>19ff35e5dbc1370019565d50cf961904</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f635650000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>broken</target_name><type>Message</type><update_domain>global</update_domain><update_guid>41a50d153045f30034c390bc2b39dfc7</update_guid><update_guid_history>41a50d153045f30034c390bc2b39dfc7:-1428761876</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_cb_topic_703538a8db3813005dd0dfea5e9619fc</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic"><sys_cb_topic action="INSERT_OR_UPDATE"><applicability>(function execute() {
+    var gr = new GlideRecord('incident');
+    return gr.canCreate();
+})()
+</applicability><connect_queue/><description>ITSM conversation for creating incidents.</description><graph>{
+  "graph_api_version": "1.0.10",
+  "goals": {
+    "23ce83c5e0e048c7826d8f2f4dfd3fe6": {
+      "id": "23ce83c5e0e048c7826d8f2f4dfd3fe6",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "Create Incident",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "6d719a50025442d89bfc6bcc0ea097f5": {
+          "id": "6d719a50025442d89bfc6bcc0ea097f5",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "mode": "simple",
+            "value": ""
+          },
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          }
+        },
+        "aa32c52a30c74e7e90a943a52dc1434d": {
+          "id": "aa32c52a30c74e7e90a943a52dc1434d",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "value": "Thanks for using our support chat! Have a great day!",
+            "mode": "simple"
+          },
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          }
+        },
+        "b3c273f4363e4da0bbdae7a4a49260c2": {
+          "id": "b3c273f4363e4da0bbdae7a4a49260c2",
+          "stepType": "Prompt",
+          "name": "Short Description",
+          "prompt": {
+            "value": "Please enter a short description of your issue.",
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          },
+          "optional": false,
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "variableId": "99259e34c31840c5941daa3fb26ceb8d"
+        },
+        "a476dd02b50e49f99eb2d68ace202aaf": {
+          "id": "a476dd02b50e49f99eb2d68ace202aaf",
+          "stepType": "ScriptOutput",
+          "name": "Contextual Search",
+          "script": "(function execute() {\n    var search_term = vaInputs.short_description;\n    var context = '2821675a5b30130070e4492c11f91a89';\n\n    var contextualSearch = new sn_itsm_va.VAContextualSearchUtil();\n    var response = contextualSearch.search(context, search_term);\n\n    var success = contextualSearch.processSearchResponse(response);\n    if (!success) {\n        vaVars.count = 0;\n        return '';\n    }\n\n    var relevantSearchResults = contextualSearch.processGeneralResults(response, vaVars.limit, 0);\n    vaVars.count = relevantSearchResults.length;\n    if (vaVars.count == 0) {\n        return '';\n    }\n\n    var htmlhead =  gs.getMessage(\"OK. Before creating your incident, here are some KB articles that may help.\") +\n                \"\\r\\n &lt;table style=\\\"width: 100%;\\\"&gt;\\r\\n \";\n    var htmlline =  \"&lt;tr style=\\\"vertical-align:top\\\"&gt;\\r\\n\\t&lt;td&gt;&lt;a target=\\\"_blank\\\" \"+ \n                    \"href=\\\"###LINK###\\\"&gt;\" +\n                    \"###TITLE###&lt;/a&gt;&lt;/td&gt;\\r\\n&lt;/tr&gt;\";\n    var htmltail = \"&lt;/table&gt;\";\n\n    var htmlbuilder = \"\" + htmlhead;\n    for (var i = 0; i &lt; vaVars.count; i++) {\n        var sysId = relevantSearchResults[i].id.split(':')[1];\n        htmlbuilder += \n            htmlline.replace(\"###LINK###\",  gs.getProperty('glide.servlet.uri') + '/' +\n                        gs.getProperty('sn_itsm_va.com.snc.itsm.virtualagent.portal_url') +\n                        '?id=kb_article&amp;sys_id=' + sysId)\n                    .replace(\"###TITLE###\", relevantSearchResults[i].title);\n        \n    }\n    htmlbuilder += htmltail;\n    \n    return htmlbuilder;\n})()\n",
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          },
+          "output_type": "single_part",
+          "isOk": true
+        },
+        "dbd8a602ed0240e5aeac72d801953ace": {
+          "id": "dbd8a602ed0240e5aeac72d801953ace",
+          "stepType": "Decision",
+          "name": "Decision",
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          }
+        },
+        "42a895b6306548429858417b21d5bf53": {
+          "id": "42a895b6306548429858417b21d5bf53",
+          "stepType": "Prompt",
+          "name": "Is Helpful",
+          "prompt": {
+            "value": "(function execute() {\n    if (vaVars.total_results == 1) {\n        return gs.getMessage('Did this KB article resolve your issue?');\n    }\n    return gs.getMessage('Did any of these articles resolve your issue?');\n})()\n",
+            "mode": "script"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          },
+          "optional": false,
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "variableId": "f114636f04cb414c82416778b2432215"
+        },
+        "09aea3c778884e73b41e5f758dd41e29": {
+          "id": "09aea3c778884e73b41e5f758dd41e29",
+          "stepType": "Decision",
+          "name": "Decision",
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          }
+        },
+        "8d97018a18c04e7c838d64371a3b0be0": {
+          "id": "8d97018a18c04e7c838d64371a3b0be0",
+          "stepType": "TextOutput",
+          "name": "Acknowledgement",
+          "value": {
+            "value": "Alright, I've opened your incident and a technician will be assigned. ",
+            "mode": "simple"
+          },
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          },
+          "isOk": true
+        },
+        "227b5883c8984be684aea413ad5e8a2e": {
+          "id": "227b5883c8984be684aea413ad5e8a2e",
+          "stepType": "Decision",
+          "name": "Decision",
+          "isOk": true,
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          }
+        },
+        "17026bf8bcf94d6fb0b1f1fb2110e0e9": {
+          "id": "17026bf8bcf94d6fb0b1f1fb2110e0e9",
+          "name": "Create Incident",
+          "script": "(function execute() {\n    var incident = new GlideRecord('incident');\n    incident.initialize();\n    incident.caller_id = vaInputs.user;\n    incident.short_description = vaInputs.short_description;\n    incident.urgency = vaInputs.urgency;\n    incident.contact_type = 'virtual_agent';\n    vaInputs.create_incident = incident.insert();\n    return vaInputs.create_incident;\n})();",
+          "stepType": "ScriptAction",
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          },
+          "isOk": true
+        },
+        "b071de2795454a4a8507eb618f4d3476": {
+          "stepType": "ReferenceChoicePrompt",
+          "name": "Urgency",
+          "prompt": {
+            "value": "(function execute() {\n    if (vaVars.count &gt; 0) {\n        return gs.getMessage('OK, what\\'s the urgency of your issue?');\n    }\n    return gs.getMessage('What\\'s the urgency of your issue?');\n})()",
+            "mode": "script"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          },
+          "optional": false,
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "variableId": "75daa0a8097d4adc8950c8c24e1786dd",
+          "id": "b071de2795454a4a8507eb618f4d3476",
+          "mode": "external",
+          "script": "(function execute() {\n    var choices = new GlideChoiceList();\n    // Getting all the choices for urgency.\n    var choiceList = choices.getChoiceList('incident', 'urgency');\n    \n    var options = [];\n\n    for (var i=0; i &lt; choiceList.getSize(); i++) {\n        options.push({'value': choiceList.getChoice(i).getValue(), 'label': choiceList.getChoice(i).getLabel()});\n    }\n    \n    return options;    \n})()\n",
+          "noRecordsResponseMsg": {
+            "value": "OK, got it.",
+            "mode": "simple"
+          },
+          "condition": {
+            "mode": "external_script",
+            "value": "(function execute() {\n    var choices = new GlideChoiceList();\n    // Getting all the choices for urgency.\n    var choiceList = choices.getChoiceList('incident', 'urgency');\n    \n    var options = [];\n\n    for (var i=0; i &lt; choiceList.getSize(); i++) {\n        options.push({'value': choiceList.getChoice(i).getValue(), 'label': choiceList.getChoice(i).getLabel()});\n    }\n    \n    return options;    \n})()\n"
+          }
+        },
+        "565101089c9f4ab496e9cb795ef60834": {
+          "id": "565101089c9f4ab496e9cb795ef60834",
+          "stepType": "RecordOutput",
+          "name": "Incident Card",
+          "variableId": "",
+          "mode": "script",
+          "script": "(function execute(table) {\n    var gr = new GlideRecord(table);\n    gr.get(vaInputs.create_incident);\n    if(gr) {\n        return gr;\n    }\n})(table);\n",
+          "tableName": "incident",
+          "fields": [
+            "category",
+            "assignment_group",
+            "short_description",
+            "state"
+          ],
+          "applicability": {
+            "mode": "query",
+            "value": ""
+          },
+          "condition": {
+            "mode": "glide_scripted_query",
+            "value": "(function execute(table) {\n    var gr = new GlideRecord(table);\n    gr.get(vaInputs.create_incident);\n    if(gr) {\n        return gr;\n    }\n})(table);\n"
+          }
+        }
+      },
+      "edges": [
+        {
+          "id": "9297505a89a64bf7ad99b2ced6094651",
+          "edgeType": "Edge",
+          "source": "8d97018a18c04e7c838d64371a3b0be0",
+          "target": "565101089c9f4ab496e9cb795ef60834",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "0e6cdc37955e4948ae3726c3fb04c75a",
+          "edgeType": "Edge",
+          "source": "b071de2795454a4a8507eb618f4d3476",
+          "target": "17026bf8bcf94d6fb0b1f1fb2110e0e9",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "ea15cee23a034bbf9a9a52ff0846a624",
+          "edgeType": "Edge",
+          "source": "17026bf8bcf94d6fb0b1f1fb2110e0e9",
+          "target": "8d97018a18c04e7c838d64371a3b0be0",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "9427ea8ca83d495d9ea4ae6db5c28806",
+          "edgeType": "Branch",
+          "source": "09aea3c778884e73b41e5f758dd41e29",
+          "target": "aa32c52a30c74e7e90a943a52dc1434d",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "mode": "script",
+            "value": "(function execute() {\n    return vaInputs.is_helpful.getValue();\n})()\n"
+          },
+          "label": "Helpful"
+        },
+        {
+          "id": "a80aea785aba424dbd91bd3e01f10667",
+          "edgeType": "Edge",
+          "source": "6d719a50025442d89bfc6bcc0ea097f5",
+          "target": "b3c273f4363e4da0bbdae7a4a49260c2",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "fa22eb2ae7624469a461ac08caa37d10",
+          "edgeType": "Edge",
+          "source": "a476dd02b50e49f99eb2d68ace202aaf",
+          "target": "dbd8a602ed0240e5aeac72d801953ace",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "27b80d2eacfb43deb305973fde96e7ad",
+          "edgeType": "Branch",
+          "source": "dbd8a602ed0240e5aeac72d801953ace",
+          "target": "42a895b6306548429858417b21d5bf53",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "mode": "script",
+            "value": "(function execute() {\n    return (parseInt(vaVars.count) != 0);\n})()\n"
+          },
+          "label": "Has Results"
+        },
+        {
+          "id": "5f77ebda0f3f4fbc87cb8d619334bf0b",
+          "edgeType": "Edge",
+          "source": "42a895b6306548429858417b21d5bf53",
+          "target": "09aea3c778884e73b41e5f758dd41e29",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "9ce88aa740cf47a7847cc5abfda3d933",
+          "edgeType": "Branch",
+          "source": "09aea3c778884e73b41e5f758dd41e29",
+          "target": "b071de2795454a4a8507eb618f4d3476",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "mode": "script",
+            "value": "(function execute() {\n    return !vaInputs.is_helpful.getValue();\n})()\n"
+          },
+          "label": "Not Helpful"
+        },
+        {
+          "id": "d91f4cea3e534077a4d4b1841c8d018c",
+          "edgeType": "Edge",
+          "source": "b3c273f4363e4da0bbdae7a4a49260c2",
+          "target": "227b5883c8984be684aea413ad5e8a2e",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "ee9b767c809a4f25a803bf9207f118e7",
+          "edgeType": "Branch",
+          "source": "227b5883c8984be684aea413ad5e8a2e",
+          "target": "a476dd02b50e49f99eb2d68ace202aaf",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "mode": "script",
+            "value": "(function execute() {\n    return (vaInputs.short_description.getValue().trim() != '');\n})()\n"
+          },
+          "label": "Description Is Not Empty"
+        },
+        {
+          "id": "c8a478f5f05f48a38a673902df684170",
+          "edgeType": "Branch",
+          "source": "227b5883c8984be684aea413ad5e8a2e",
+          "target": "b3c273f4363e4da0bbdae7a4a49260c2",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "mode": "script",
+            "value": "(function execute() {\n    return (vaInputs.short_description.getValue().trim() == '');\n})()\n"
+          },
+          "label": "Description Is Empty"
+        },
+        {
+          "id": "ac3e4d531aa44eb68bee665c353ba832",
+          "edgeType": "Branch",
+          "source": "dbd8a602ed0240e5aeac72d801953ace",
+          "target": "b071de2795454a4a8507eb618f4d3476",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "mode": "script",
+            "value": "(function execute() {\n    return (parseInt(vaVars.count) == 0);\n})()\n"
+          },
+          "label": "No Results"
+        },
+        {
+          "id": "f02fe53777b64f639151f57c9137a27b",
+          "edgeType": "Edge",
+          "source": "565101089c9f4ab496e9cb795ef60834",
+          "target": "aa32c52a30c74e7e90a943a52dc1434d",
+          "sourcePort": "",
+          "targetPort": ""
+        }
+      ]
+    }
+  },
+  "variables": {
+    "18e2eaafa80f4504ac71bf841c795ee6": {
+      "id": "18e2eaafa80f4504ac71bf841c795ee6",
+      "name": "limit",
+      "label": "limit",
+      "varType": "script",
+      "value": {
+        "value": "5",
+        "mode": "simple"
+      },
+      "category": "vaVars"
+    },
+    "86f0336e413a44a0b32ac745298b47d4": {
+      "id": "86f0336e413a44a0b32ac745298b47d4",
+      "name": "count",
+      "label": "count",
+      "varType": "script",
+      "value": {
+        "value": "0",
+        "mode": "simple"
+      },
+      "category": "vaVars"
+    },
+    "99259e34c31840c5941daa3fb26ceb8d": {
+      "id": "99259e34c31840c5941daa3fb26ceb8d",
+      "name": "short_description",
+      "label": "Short Description",
+      "varType": "string",
+      "category": "vaInputs"
+    },
+    "f114636f04cb414c82416778b2432215": {
+      "id": "f114636f04cb414c82416778b2432215",
+      "name": "is_helpful",
+      "label": "Is Helpful",
+      "varType": "boolean",
+      "category": "vaInputs"
+    },
+    "ce65850e646546ed95e300b188c28b1d": {
+      "id": "ce65850e646546ed95e300b188c28b1d",
+      "name": "create_incident",
+      "label": "create_incident",
+      "varType": "reference",
+      "table": "incident",
+      "inactive": false,
+      "category": "vaInputs"
+    },
+    "75daa0a8097d4adc8950c8c24e1786dd": {
+      "id": "75daa0a8097d4adc8950c8c24e1786dd",
+      "name": "urgency",
+      "label": "Urgency",
+      "varType": "reference",
+      "table": "",
+      "category": "vaInputs"
+    },
+    "78add6caf6a54c07a269f8db47973b49": {
+      "id": "78add6caf6a54c07a269f8db47973b49",
+      "name": "LiveAgent_application",
+      "value": {
+        "mode": "simple",
+        "value": "itsm"
+      },
+      "varType": "script",
+      "label": "LiveAgent_application",
+      "category": "vaVars"
+    },
+    "b531ddd2b8204c89a65466c0384e7115": {
+      "id": "b531ddd2b8204c89a65466c0384e7115",
+      "value": {
+        "mode": "simple",
+        "value": "sp"
+      },
+      "name": "portal",
+      "label": "portal",
+      "varType": "script",
+      "category": "vaVars"
+    }
+  }
+}</graph><key_phrases>Create Incident,create,open,incident,ticket,issue,broken,help,IT</key_phrases><live_agent>false</live_agent><name>Create Incident</name><roles/><sys_class_name>sys_cb_topic</sys_class_name><sys_created_by>nathan.holm</sys_created_by><sys_created_on>2018-03-08 22:21:29</sys_created_on><sys_domain>global</sys_domain><sys_id>703538a8db3813005dd0dfea5e9619fc</sys_id><sys_mod_count>88</sys_mod_count><sys_name>Create Incident</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_cb_topic_703538a8db3813005dd0dfea5e9619fc</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:32:25</sys_updated_on><variables/></sys_cb_topic><sys_variable_value action="delete_multiple" query="document_key=703538a8db3813005dd0dfea5e9619fc"/></record_update>]]></payload><payload_hash>140066934</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>1dff35e5dbc1370019565d50cf961903</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a540db4790000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>Create Incident</target_name><type>Topic</type><update_domain>global</update_domain><update_guid>f08b01d17245f300c1fc093146288616</update_guid><update_guid_history>f08b01d17245f300c1fc093146288616:140066934,308b01d1b445f300dd3b69b1ff8ef215:1628626246</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_ui_message_85a50d15db45f30019565d50cf9619cb</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>Please enter a short description of your issue.</key><language>en</language><message>Please enter a short description of your issue.</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:45</sys_created_on><sys_id>85a50d15db45f30019565d50cf9619cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Please enter a short description of your issue.</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_ui_message_85a50d15db45f30019565d50cf9619cb</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:45</sys_updated_on></sys_ui_message></record_update>]]></payload><payload_hash>-393597325</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>51ff35e5dbc1370019565d50cf961905</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f636050000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>Please enter a short description of your issue.</target_name><type>Message</type><update_domain>global</update_domain><update_guid>85a50d151145f300a46e5f7517a186cc</update_guid><update_guid_history>85a50d151145f300a46e5f7517a186cc:-393597325</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_ui_message_0da50d15db45f30019565d50cf9619c9</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>issue</key><language>en</language><message>issue</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:45</sys_created_on><sys_id>0da50d15db45f30019565d50cf9619c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>issue</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_ui_message_0da50d15db45f30019565d50cf9619c9</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:45</sys_updated_on></sys_ui_message></record_update>]]></payload><payload_hash>-1652356584</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>55ff35e5dbc1370019565d50cf961904</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f635cd0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>issue</target_name><type>Message</type><update_domain>global</update_domain><update_guid>0da50d15a745f300ccfe48022884b6ca</update_guid><update_guid_history>0da50d15a745f300ccfe48022884b6ca:-1652356584</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_ui_message_01a50d15db45f30019565d50cf9619cd</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>Alright, I've opened your incident and a technician will be assigned.</key><language>en</language><message>Alright, I've opened your incident and a technician will be assigned.</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:45</sys_created_on><sys_id>01a50d15db45f30019565d50cf9619cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Alright, I've opened your incident and a technician will be assigned.</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_ui_message_01a50d15db45f30019565d50cf9619cd</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:45</sys_updated_on></sys_ui_message></record_update>]]></payload><payload_hash>-854217110</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>91ff35e5dbc1370019565d50cf961904</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f636220000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>Alright, I've opened your incident and a technician will be assigned.</target_name><type>Message</type><update_domain>global</update_domain><update_guid>01a50d157345f300f3ce414fb59b26ce</update_guid><update_guid_history>01a50d157345f300f3ce414fb59b26ce:-854217110</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_ui_message_81a50d15db45f30019565d50cf9619c8</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>ticket</key><language>en</language><message>ticket</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:45</sys_created_on><sys_id>81a50d15db45f30019565d50cf9619c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ticket</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_ui_message_81a50d15db45f30019565d50cf9619c8</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:45</sys_updated_on></sys_ui_message></record_update>]]></payload><payload_hash>-1279792893</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>9dff35e5dbc1370019565d50cf961904</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f635b20000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>ticket</target_name><type>Message</type><update_domain>global</update_domain><update_guid>81a50d150a45f300db72d20b56dfe2c9</update_guid><update_guid_history>81a50d150a45f300db72d20b56dfe2c9:-1279792893</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_cb_design_topic_d1a5cd15db45f30019565d50cf9619b6</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_design_topic"><sys_cb_design_topic action="INSERT_OR_UPDATE"><compiled_topic display_value="Open IT Ticket">d9a5cd15db45f30019565d50cf9619b2</compiled_topic><design_definition>{"type":"FlowTopic","triggers":[{"type":"Trigger","name":"01ead5380e1f4a3c8ab63f462de4a01f","triggerType":"request","id":"01ead5380e1f4a3c8ab63f462de4a01f"}],"goals":[{"name":"Create Incident","trigger_id":"01ead5380e1f4a3c8ab63f462de4a01f","nodes":[{"type":"StartGoal","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6","greeting_msg":{"type":"String","mode":"string","value":""},"id":"6d719a50025442d89bfc6bcc0ea097f5","name":"Start"},{"type":"TerminateGoal","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6","confirmation_msg":{"type":"String","mode":"string","value":"gs.getMessage(\"Thanks for using our support chat! Have a great day!\")"},"id":"aa32c52a30c74e7e90a943a52dc1434d","name":"End"},{"type":"InputPrompt","variable_id":"99259e34c31840c5941daa3fb26ceb8d","message":{"type":"String","mode":"string","value":"gs.getMessage(\"Please enter a short description of your issue.\")"},"optional":false,"id":"b3c273f4363e4da0bbdae7a4a49260c2","name":"Short Description","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6"},{"type":"ScriptOutputPrompt","output_type":"single_part","id":"a476dd02b50e49f99eb2d68ace202aaf","name":"Contextual Search","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6","value":{"type":"String","mode":"string","value":"(function execute() {\n    var search_term = vaInputs.short_description;\n    var context = '2821675a5b30130070e4492c11f91a89';\n\n    var contextualSearch = new sn_itsm_va.VAContextualSearchUtil();\n    var response = contextualSearch.search(context, search_term);\n\n    var success = contextualSearch.processSearchResponse(response);\n    if (!success) {\n        vaVars.count = 0;\n        return '';\n    }\n\n    var relevantSearchResults = contextualSearch.processGeneralResults(response, vaVars.limit, 0);\n    vaVars.count = relevantSearchResults.length;\n    if (vaVars.count == 0) {\n        return '';\n    }\n\n    var htmlhead =  gs.getMessage(\"OK. Before creating your incident, here are some KB articles that may help.\") +\n                \"\\r\\n &lt;table style=\\\"width: 100%;\\\"&gt;\\r\\n \";\n    var htmlline =  \"&lt;tr style=\\\"vertical-align:top\\\"&gt;\\r\\n\\t&lt;td&gt;&lt;a target=\\\"_blank\\\" \"+ \n                    \"href=\\\"###LINK###\\\"&gt;\" +\n                    \"###TITLE###&lt;/a&gt;&lt;/td&gt;\\r\\n&lt;/tr&gt;\";\n    var htmltail = \"&lt;/table&gt;\";\n\n    var htmlbuilder = \"\" + htmlhead;\n    for (var i = 0; i &lt; vaVars.count; i++) {\n        var sysId = relevantSearchResults[i].id.split(':')[1];\n        htmlbuilder += \n            htmlline.replace(\"###LINK###\",  gs.getProperty('glide.servlet.uri') + '/' +\n                        gs.getProperty('sn_itsm_va.com.snc.itsm.virtualagent.portal_url') +\n                        '?id=kb_article&amp;sys_id=' + sysId)\n                    .replace(\"###TITLE###\", relevantSearchResults[i].title);\n        \n    }\n    htmlbuilder += htmltail;\n    \n    return htmlbuilder;\n})()\n"}},{"type":"Decision","name":"Decision","branches":[{"type":"Branch","label":"Has Results","expression":{"type":"Applicability","mode":"script","value":"(function execute() {\n    return (parseInt(vaVars.count) != 0);\n})()\n"},"id":"431d407313d146f8956b6d98a4b963d4","name":"Has Results"},{"type":"Branch","label":"No Results","expression":{"type":"Applicability","mode":"script","value":"(function execute() {\n    return (parseInt(vaVars.count) == 0);\n})()\n"},"id":"260edf071390403f9c3cd6c5d5be3492","name":"No Results"}],"id":"dbd8a602ed0240e5aeac72d801953ace","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6"},{"type":"InputPrompt","variable_id":"f114636f04cb414c82416778b2432215","message":{"type":"String","mode":"script","value":"(function execute() {\n    if (vaVars.total_results == 1) {\n        return gs.getMessage('Did this KB article resolve your issue?');\n    }\n    return gs.getMessage('Did any of these articles resolve your issue?');\n})()\n"},"optional":false,"id":"42a895b6306548429858417b21d5bf53","name":"Is Helpful","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6"},{"type":"Decision","name":"Decision","branches":[{"type":"Branch","label":"Helpful","expression":{"type":"Applicability","mode":"script","value":"(function execute() {\n    return vaInputs.is_helpful.getValue();\n})()\n"},"id":"b10dc226d63a4fd3a6caf4c447f86ebc","name":"Helpful"},{"type":"Branch","label":"Not Helpful","expression":{"type":"Applicability","mode":"script","value":"(function execute() {\n    return !vaInputs.is_helpful.getValue();\n})()\n"},"id":"e6d45fb2394b4dab921ecabfb57a20a3","name":"Not Helpful"}],"id":"09aea3c778884e73b41e5f758dd41e29","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6"},{"type":"OutputPrompt","value":{"type":"String","mode":"string","value":"gs.getMessage(\"Alright, I've opened your incident and a technician will be assigned. \")"},"id":"8d97018a18c04e7c838d64371a3b0be0","name":"Acknowledgement","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6"},{"type":"Decision","name":"Decision","branches":[{"type":"Branch","label":"Description Is Not Empty","expression":{"type":"Applicability","mode":"script","value":"(function execute() {\n    return (vaInputs.short_description.getValue().trim() != '');\n})()\n"},"id":"7295a1eada3e4be7a78db6296eddb34d","name":"Description Is Not Empty"},{"type":"Branch","label":"Description Is Empty","expression":{"type":"Applicability","mode":"script","value":"(function execute() {\n    return (vaInputs.short_description.getValue().trim() == '');\n})()\n"},"id":"79323d748bad4514996a39546be38dcd","name":"Description Is Empty"}],"id":"227b5883c8984be684aea413ad5e8a2e","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6"},{"type":"ScriptedAction","script":"(function execute() {\n    var incident = new GlideRecord('incident');\n    incident.initialize();\n    incident.caller_id = vaInputs.user;\n    incident.short_description = vaInputs.short_description;\n    incident.urgency = vaInputs.urgency;\n    incident.contact_type = 'virtual_agent';\n    vaInputs.create_incident = incident.insert();\n    return vaInputs.create_incident;\n})();","id":"17026bf8bcf94d6fb0b1f1fb2110e0e9","name":"Create Incident","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6"},{"type":"ReferenceChoiceInputPrompt","mode":"external","id":"b071de2795454a4a8507eb618f4d3476","name":"Urgency","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6","variable_id":"75daa0a8097d4adc8950c8c24e1786dd","message":{"type":"String","mode":"script","value":"(function execute() {\n    if (vaVars.count &gt; 0) {\n        return gs.getMessage('OK, what\\'s the urgency of your issue?');\n    }\n    return gs.getMessage('What\\'s the urgency of your issue?');\n})()"},"optional":false,"expression_mode":"script","script":"(function execute() {\n    var choices = new GlideChoiceList();\n    // Getting all the choices for urgency.\n    var choiceList = choices.getChoiceList('incident', 'urgency');\n    \n    var options = [];\n\n    for (var i=0; i &lt; choiceList.getSize(); i++) {\n        options.push({'value': choiceList.getChoice(i).getValue(), 'label': choiceList.getChoice(i).getLabel()});\n    }\n    \n    return options;    \n})()\n","no_options_found_message":{"type":"String","mode":"string","value":"OK, got it."},"condition":{"type":"Condition","mode":"external_script","value":"(function execute() {\n    var choices = new GlideChoiceList();\n    // Getting all the choices for urgency.\n    var choiceList = choices.getChoiceList('incident', 'urgency');\n    \n    var options = [];\n\n    for (var i=0; i &lt; choiceList.getSize(); i++) {\n        options.push({'value': choiceList.getChoice(i).getValue(), 'label': choiceList.getChoice(i).getLabel()});\n    }\n    \n    return options;    \n})()\n"}},{"type":"RecordOutputPrompt","mode":"script","table":"incident","script":"(function execute(table) {\n    var gr = new GlideRecord(table);\n    gr.get(vaInputs.create_incident);\n    if(gr) {\n        return gr;\n    }\n})(table);\n","fields":["category","assignment_group","short_description","state"],"id":"565101089c9f4ab496e9cb795ef60834","name":"Incident Card","goal_id":"23ce83c5e0e048c7826d8f2f4dfd3fe6","condition":{"type":"Condition","mode":"glide_scripted_query","value":"(function execute(table) {\n    var gr = new GlideRecord(table);\n    gr.get(vaInputs.create_incident);\n    if(gr) {\n        return gr;\n    }\n})(table);\n"}}],"edges":[{"type":"Edge","source_node_id":"8d97018a18c04e7c838d64371a3b0be0","target_node_id":"565101089c9f4ab496e9cb795ef60834","id":"9297505a89a64bf7ad99b2ced6094651"},{"type":"Edge","source_node_id":"b071de2795454a4a8507eb618f4d3476","target_node_id":"17026bf8bcf94d6fb0b1f1fb2110e0e9","id":"0e6cdc37955e4948ae3726c3fb04c75a"},{"type":"Edge","source_node_id":"17026bf8bcf94d6fb0b1f1fb2110e0e9","target_node_id":"8d97018a18c04e7c838d64371a3b0be0","id":"ea15cee23a034bbf9a9a52ff0846a624"},{"type":"Edge","source_node_id":"09aea3c778884e73b41e5f758dd41e29","target_node_id":"aa32c52a30c74e7e90a943a52dc1434d","branch_id":"b10dc226d63a4fd3a6caf4c447f86ebc","id":"9427ea8ca83d495d9ea4ae6db5c28806","name":"b10dc226d63a4fd3a6caf4c447f86ebc"},{"type":"Edge","source_node_id":"6d719a50025442d89bfc6bcc0ea097f5","target_node_id":"b3c273f4363e4da0bbdae7a4a49260c2","id":"a80aea785aba424dbd91bd3e01f10667"},{"type":"Edge","source_node_id":"a476dd02b50e49f99eb2d68ace202aaf","target_node_id":"dbd8a602ed0240e5aeac72d801953ace","id":"fa22eb2ae7624469a461ac08caa37d10"},{"type":"Edge","source_node_id":"dbd8a602ed0240e5aeac72d801953ace","target_node_id":"42a895b6306548429858417b21d5bf53","branch_id":"431d407313d146f8956b6d98a4b963d4","id":"27b80d2eacfb43deb305973fde96e7ad","name":"431d407313d146f8956b6d98a4b963d4"},{"type":"Edge","source_node_id":"42a895b6306548429858417b21d5bf53","target_node_id":"09aea3c778884e73b41e5f758dd41e29","id":"5f77ebda0f3f4fbc87cb8d619334bf0b"},{"type":"Edge","source_node_id":"09aea3c778884e73b41e5f758dd41e29","target_node_id":"b071de2795454a4a8507eb618f4d3476","branch_id":"e6d45fb2394b4dab921ecabfb57a20a3","id":"9ce88aa740cf47a7847cc5abfda3d933","name":"e6d45fb2394b4dab921ecabfb57a20a3"},{"type":"Edge","source_node_id":"b3c273f4363e4da0bbdae7a4a49260c2","target_node_id":"227b5883c8984be684aea413ad5e8a2e","id":"d91f4cea3e534077a4d4b1841c8d018c"},{"type":"Edge","source_node_id":"227b5883c8984be684aea413ad5e8a2e","target_node_id":"a476dd02b50e49f99eb2d68ace202aaf","branch_id":"7295a1eada3e4be7a78db6296eddb34d","id":"ee9b767c809a4f25a803bf9207f118e7","name":"7295a1eada3e4be7a78db6296eddb34d"},{"type":"Edge","source_node_id":"227b5883c8984be684aea413ad5e8a2e","target_node_id":"b3c273f4363e4da0bbdae7a4a49260c2","branch_id":"79323d748bad4514996a39546be38dcd","id":"c8a478f5f05f48a38a673902df684170","name":"79323d748bad4514996a39546be38dcd"},{"type":"Edge","source_node_id":"dbd8a602ed0240e5aeac72d801953ace","target_node_id":"b071de2795454a4a8507eb618f4d3476","branch_id":"260edf071390403f9c3cd6c5d5be3492","id":"ac3e4d531aa44eb68bee665c353ba832","name":"260edf071390403f9c3cd6c5d5be3492"},{"type":"Edge","source_node_id":"565101089c9f4ab496e9cb795ef60834","target_node_id":"aa32c52a30c74e7e90a943a52dc1434d","id":"f02fe53777b64f639151f57c9137a27b"}],"id":"23ce83c5e0e048c7826d8f2f4dfd3fe6"}],"script_variables":[{"type":"String","name":"limit","value":{"type":"String","mode":"string","value":"5"},"id":"18e2eaafa80f4504ac71bf841c795ee6"},{"type":"String","name":"count","value":{"type":"String","mode":"string","value":"0"},"id":"86f0336e413a44a0b32ac745298b47d4"},{"type":"String","name":"LiveAgent_application","value":{"type":"String","mode":"string","value":"itsm"},"id":"78add6caf6a54c07a269f8db47973b49"},{"type":"String","name":"portal","value":{"type":"String","mode":"string","value":"sp"},"id":"b531ddd2b8204c89a65466c0384e7115"}],"glide_variables":[{"type":"String","name":"short_description","id":"99259e34c31840c5941daa3fb26ceb8d"},{"type":"True/False","id":"f114636f04cb414c82416778b2432215","name":"is_helpful"},{"type":"Reference","table":"incident","id":"ce65850e646546ed95e300b188c28b1d","name":"create_incident"},{"type":"Choice","choices":[],"id":"75daa0a8097d4adc8950c8c24e1786dd","name":"urgency","table":""}],"roles":[],"scope":"134450a0b3781300787162ac16a8dc1e","id":"703538a8db3813005dd0dfea5e9619fc","name":"Open IT Ticket","key_phrases":["Open IT Ticket","create","open","incident","ticket","issue","broken","help","IT"]}</design_definition><design_topic_id>703538a8db3813005dd0dfea5e9619fc</design_topic_id><name>Open IT Ticket</name><sys_class_name>sys_cb_design_topic</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:46</sys_created_on><sys_domain>global</sys_domain><sys_id>d1a5cd15db45f30019565d50cf9619b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>FlowTopic</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_cb_design_topic_d1a5cd15db45f30019565d50cf9619b6</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:46</sys_updated_on><type>FlowTopic</type></sys_cb_design_topic></record_update>]]></payload><payload_hash>-1775759174</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>d1ff35e5dbc1370019565d50cf961903</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f63ab90000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>FlowTopic</target_name><type>Published Topic</type><update_domain>global</update_domain><update_guid>d1a5cd155445f3000d573bd5065807b7</update_guid><update_guid_history>d1a5cd155445f3000d573bd5065807b7:-1775759174</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_ui_message_c9a5cd15db45f30019565d50cf9619af</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>IT</key><language>en</language><message>IT</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:45</sys_created_on><sys_id>c9a5cd15db45f30019565d50cf9619af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_ui_message_c9a5cd15db45f30019565d50cf9619af</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:45</sys_updated_on></sys_ui_message></record_update>]]></payload><payload_hash>-514191614</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>d5ff35e5dbc1370019565d50cf961905</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f636830000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>IT</target_name><type>Message</type><update_domain>global</update_domain><update_guid>c9a5cd156445f300b99071e81b4f8cb0</update_guid><update_guid_history>c9a5cd156445f300b99071e81b4f8cb0:-514191614</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_ui_message_41a5cd15db45f30019565d50cf9619ae</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>Open IT Ticket</key><language>en</language><message>Open IT Ticket</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:45</sys_created_on><sys_id>41a5cd15db45f30019565d50cf9619ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open IT Ticket</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_ui_message_41a5cd15db45f30019565d50cf9619ae</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:45</sys_updated_on></sys_ui_message></record_update>]]></payload><payload_hash>-306635934</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>d9ff35e5dbc1370019565d50cf961904</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f6365c0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>Open IT Ticket</target_name><type>Message</type><update_domain>global</update_domain><update_guid>41a5cd154f45f3006a3e6c4b57ae2daf</update_guid><update_guid_history>41a5cd154f45f3006a3e6c4b57ae2daf:-306635934</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</application><category>customer</category><comments/><name>sys_cs_topic_d9a5cd15db45f30019565d50cf9619b2</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic"><sys_cs_topic action="INSERT_OR_UPDATE"><active>true</active><applicability/><cb_topic_id display_value="Open IT Ticket">703538a8db3813005dd0dfea5e9619fc</cb_topic_id><definition>{"id":"703538a8db3813005dd0dfea5e9619fc","name":"Open IT Ticket","vendor_id":"c2f0b8f187033200246ddd4c97cb0bb9","description":"Open IT Ticket","category":"","key_phrases":["Open IT Ticket","create","open","incident","ticket","issue","broken","help","IT"],"variables":[{"name":"limit","type":"java.lang.Object","init_value":"5"},{"name":"count","type":"java.lang.Object","init_value":"0"},{"name":"LiveAgent_application","type":"java.lang.Object","init_value":"\"itsm\""},{"name":"portal","type":"java.lang.Object","init_value":"\"sp\""},{"name":"noData_75daa0a8097d4adc8950c8c24e1786dd","type":"java.lang.Object"},{"name":"__multipart_total__a476dd02b50e49f99eb2d68ace202aaf","type":"java.lang.Object"},{"name":"__multipart_idx__a476dd02b50e49f99eb2d68ace202aaf","type":"java.lang.Object"},{"name":"__multipart_valid__a476dd02b50e49f99eb2d68ace202aaf","type":"java.lang.Object"},{"name":"__segment_trigger_01ead5380e1f4a3c8ab63f462de4a01f_done","type":"java.lang.Object","init_value":"false"},{"name":"previous_graph_node","type":"java.lang.Object"}],"fields":[{"type":"String","name":"short_description","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"Boolean","name":"is_helpful","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"Reference","table_name":"incident","name":"create_incident","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"ID","name":"urgency","unique":false,"key_phrases":[],"static_enum_list":[],"dynamic_enum_list":{"name":"urgency","props":[{"name":"value","isItemValue":true,"isPicture":false},{"name":"label","isItemValue":false,"isPicture":false}]},"binding":{"write_to":[],"enum_list":{"expression":"(function execute() {function isValid(option) {return !gs.nil(option) &amp;&amp; !gs.nil(option.value) &amp;&amp; !gs.nil(option.label);}function fixInvalid(invalidOption) {var fixedOption = {'value': 'no_data', 'label': 'no_data'};if (!gs.nil(invalidOption)) {fixedOption.value = !gs.nil(invalidOption.value) ? invalidOption.value : fixedOption.value;fixedOption.label = !gs.nil(invalidOption.label) ? invalidOption.label : fixedOption.label;}return fixedOption;}function buildNoOptionsArray() {return [{'value': 'no_data', 'label': 'no_data'},{'value': 'no_data', 'label': 'no_data'}];} function normalizeKeys(obj){Object.keys(obj).forEach(function (key) {var k = key.toLowerCase();if (k !== key) {obj[k] = obj[key];delete obj[key];}});return (obj);}var choiceOptions = [];var customApplies = true;if (!customApplies) {choiceOptions.push({'value': 'no_data', 'label': 'no_data'});choiceOptions.push({'value': 'no_data', 'label': 'no_data'});vaVars.noData_75daa0a8097d4adc8950c8c24e1786dd = true; return choiceOptions;}else {choiceOptions = (function execute() {\n    var choices = new GlideChoiceList();\n    // Getting all the choices for urgency.\n    var choiceList = choices.getChoiceList('incident', 'urgency');\n    \n    var options = [];\n\n    for (var i=0; i &lt; choiceList.getSize(); i++) {\n        options.push({'value': choiceList.getChoice(i).getValue(), 'label': choiceList.getChoice(i).getLabel()});\n    }\n    \n    return options;    \n})()\n;var noOptions = gs.nil(choiceOptions) || choiceOptions.length==0;if (noOptions) {choiceOptions = buildNoOptionsArray();}else {var invalidCount = 0;var normalizedChoiceOptions = [];for (var i = 0; i &lt; choiceOptions.length; i++) {normalizedChoiceOptions.push(normalizeKeys(choiceOptions[i]));}choiceOptions = normalizedChoiceOptions;for (var i = 0; i &lt; choiceOptions.length; i++) {if (gs.nil(choiceOptions[i].label)) {choiceOptions[i].label = choiceOptions[i].value;}}for (var i = 0; i &lt; choiceOptions.length; i++) {if (!isValid(choiceOptions[i])) {invalidCount++;choiceOptions[i] = fixInvalid(choiceOptions[i]);}}noOptions = invalidCount === choiceOptions.length;if (noOptions) {choiceOptions = buildNoOptionsArray();}vaVars.noData_75daa0a8097d4adc8950c8c24e1786dd = noOptions; return choiceOptions;}}})();"}}},{"type":"Boolean","name":"RootDecisionBranch_01a5cd15f745f300b8e8658600404eb2","unique":false,"default_value":"true","key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Branch_431d407313d146f8956b6d98a4b963d4","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Branch_260edf071390403f9c3cd6c5d5be3492","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_ScriptedAction_17026bf8bcf94d6fb0b1f1fb2110e0e9","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_RecordOutputPrompt_565101089c9f4ab496e9cb795ef60834","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Branch_7295a1eada3e4be7a78db6296eddb34d","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Decision_dbd8a602ed0240e5aeac72d801953ace","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Branch_e6d45fb2394b4dab921ecabfb57a20a3","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_ScriptOutputPrompt_a476dd02b50e49f99eb2d68ace202aaf","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Branch_RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Decision_RootDecision_8da5cd15fc45f300b3080795d544d1b1","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_StartGoal_6d719a50025442d89bfc6bcc0ea097f5","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Decision_227b5883c8984be684aea413ad5e8a2e","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Branch_b10dc226d63a4fd3a6caf4c447f86ebc","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_OutputPrompt_8d97018a18c04e7c838d64371a3b0be0","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Decision_09aea3c778884e73b41e5f758dd41e29","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_TerminateGoal_aa32c52a30c74e7e90a943a52dc1434d","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Branch_79323d748bad4514996a39546be38dcd","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"Reference","table_name":"sys_user","name":"user","unique":false,"key_phrases":[],"static_enum_list":[]}],"actions":[],"tasks":[{"type":"Consumer to system","show_as_button":true,"name":"Create Incident","description":"Create Incident","applicability":"vaVars.__segment_trigger_01ead5380e1f4a3c8ab63f462de4a01f_done==false","mode":"Qmode","key_phrases":[],"greeting_msg":"vaInputs.initialize(\"user\");vaInputs.initialize(\"RootDecisionBranch_01a5cd15f745f300b8e8658600404eb2\");vaInputs.initialize(\"__silent_Branch_431d407313d146f8956b6d98a4b963d4\");vaInputs.initialize(\"urgency\");vaInputs.initialize(\"__silent_Branch_e6d45fb2394b4dab921ecabfb57a20a3\");vaInputs.initialize(\"__silent_Branch_RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1\");vaInputs.initialize(\"__silent_StartGoal_6d719a50025442d89bfc6bcc0ea097f5\");vaInputs.initialize(\"__silent_TerminateGoal_aa32c52a30c74e7e90a943a52dc1434d\");vaInputs.initialize(\"is_helpful\");vaInputs.initialize(\"__silent_Branch_7295a1eada3e4be7a78db6296eddb34d\");vaInputs.initialize(\"__silent_OutputPrompt_8d97018a18c04e7c838d64371a3b0be0\");vaInputs.initialize(\"__silent_ScriptedAction_17026bf8bcf94d6fb0b1f1fb2110e0e9\");vaInputs.initialize(\"__silent_RecordOutputPrompt_565101089c9f4ab496e9cb795ef60834\");vaInputs.initialize(\"__silent_Decision_dbd8a602ed0240e5aeac72d801953ace\");vaInputs.initialize(\"short_description\");vaInputs.initialize(\"__silent_Decision_09aea3c778884e73b41e5f758dd41e29\");vaInputs.initialize(\"__silent_Decision_227b5883c8984be684aea413ad5e8a2e\");vaInputs.initialize(\"__silent_ScriptOutputPrompt_a476dd02b50e49f99eb2d68ace202aaf\");vaInputs.initialize(\"__silent_Branch_b10dc226d63a4fd3a6caf4c447f86ebc\");vaInputs.initialize(\"__silent_Branch_79323d748bad4514996a39546be38dcd\");vaInputs.initialize(\"__silent_Branch_260edf071390403f9c3cd6c5d5be3492\");vaInputs.initialize(\"__silent_Decision_RootDecision_8da5cd15fc45f300b3080795d544d1b1\");null;","fields":[{"name":"__silent_Decision_RootDecision_8da5cd15fc45f300b3080795d544d1b1","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"RootDecision_for_goal_Create Incident___RootDecision_8da5cd15fc45f300b3080795d544d1b1\";vaInputs.__silent_Decision_RootDecision_8da5cd15fc45f300b3080795d544d1b1=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"RootDecision_for_goal_Create Incident___RootDecision_8da5cd15fc45f300b3080795d544d1b1\";vaInputs.RootDecisionBranch_01a5cd15f745f300b8e8658600404eb2=true;null;"},{"name":"__silent_Branch_RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1","applicable":"vaVars.previous_graph_node==\"RootDecision_for_goal_Create Incident___RootDecision_8da5cd15fc45f300b3080795d544d1b1\" &amp;&amp; ((vaInputs.RootDecisionBranch_01a5cd15f745f300b8e8658600404eb2.getValue() == true))","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1___RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1\";vaInputs.__silent_Branch_RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1___RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1\";null;"},{"name":"__silent_StartGoal_6d719a50025442d89bfc6bcc0ea097f5","applicable":"vaVars.previous_graph_node==\"RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1___RootDecisionBranch_cda5cd155b45f300bc7af0462803ccb1\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Start___6d719a50025442d89bfc6bcc0ea097f5\";vaInputs.__silent_StartGoal_6d719a50025442d89bfc6bcc0ea097f5=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Start___6d719a50025442d89bfc6bcc0ea097f5\";null;"},{"name":"__silent_Decision_227b5883c8984be684aea413ad5e8a2e","applicable":"vaVars.previous_graph_node==\"Short Description___b3c273f4363e4da0bbdae7a4a49260c2\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Decision___227b5883c8984be684aea413ad5e8a2e\";vaInputs.__silent_Decision_227b5883c8984be684aea413ad5e8a2e=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Decision___227b5883c8984be684aea413ad5e8a2e\";null;"},{"name":"__silent_Branch_7295a1eada3e4be7a78db6296eddb34d","applicable":"vaVars.previous_graph_node==\"Decision___227b5883c8984be684aea413ad5e8a2e\" &amp;&amp; (function execute() {\n    return (vaInputs.short_description.getValue().trim() != '');\n})()\n","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Description Is Not Empty___7295a1eada3e4be7a78db6296eddb34d\";vaInputs.__silent_Branch_7295a1eada3e4be7a78db6296eddb34d=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Description Is Not Empty___7295a1eada3e4be7a78db6296eddb34d\";null;"},{"name":"__silent_Branch_79323d748bad4514996a39546be38dcd","applicable":"vaVars.previous_graph_node==\"Decision___227b5883c8984be684aea413ad5e8a2e\" &amp;&amp; (function execute() {\n    return (vaInputs.short_description.getValue().trim() == '');\n})()\n","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Description Is Empty___79323d748bad4514996a39546be38dcd\";vaInputs.__silent_Branch_79323d748bad4514996a39546be38dcd=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Description Is Empty___79323d748bad4514996a39546be38dcd\";vaInputs.short_description.reset();null;"},{"name":"short_description","applicable":"(vaVars.previous_graph_node==\"Start___6d719a50025442d89bfc6bcc0ea097f5\" || vaVars.previous_graph_node==\"Description Is Empty___79323d748bad4514996a39546be38dcd\")","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Short Description___b3c273f4363e4da0bbdae7a4a49260c2\";(function execute() {vaInputs.__silent_Decision_09aea3c778884e73b41e5f758dd41e29.reset();vaInputs.__silent_Decision_227b5883c8984be684aea413ad5e8a2e.reset();vaInputs.__silent_Branch_79323d748bad4514996a39546be38dcd.reset();vaInputs.__silent_Branch_e6d45fb2394b4dab921ecabfb57a20a3.reset();vaInputs.__silent_Branch_7295a1eada3e4be7a78db6296eddb34d.reset();vaInputs.__silent_ScriptedAction_17026bf8bcf94d6fb0b1f1fb2110e0e9.reset();vaInputs.__silent_Branch_260edf071390403f9c3cd6c5d5be3492.reset();vaInputs.urgency.reset();vaInputs.__silent_Branch_431d407313d146f8956b6d98a4b963d4.reset();vaInputs.__silent_RecordOutputPrompt_565101089c9f4ab496e9cb795ef60834.reset();vaInputs.__silent_Branch_b10dc226d63a4fd3a6caf4c447f86ebc.reset();vaInputs.__silent_TerminateGoal_aa32c52a30c74e7e90a943a52dc1434d.reset();vaInputs.__silent_Decision_dbd8a602ed0240e5aeac72d801953ace.reset();vaInputs.__silent_OutputPrompt_8d97018a18c04e7c838d64371a3b0be0.reset();vaInputs.__silent_ScriptOutputPrompt_a476dd02b50e49f99eb2d68ace202aaf.reset();vaInputs.is_helpful.reset();})();gs.getMessage(\"Please enter a short description of your issue.\")","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Short Description___b3c273f4363e4da0bbdae7a4a49260c2\";null;"},{"name":"__silent_ScriptOutputPrompt_a476dd02b50e49f99eb2d68ace202aaf","applicable":"vaVars.previous_graph_node==\"Description Is Not Empty___7295a1eada3e4be7a78db6296eddb34d\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Contextual Search___a476dd02b50e49f99eb2d68ace202aaf\";vaInputs.__silent_ScriptOutputPrompt_a476dd02b50e49f99eb2d68ace202aaf=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Contextual Search___a476dd02b50e49f99eb2d68ace202aaf\";(function execute() {\n   return (function execute() {\n    var search_term = vaInputs.short_description;\n    var context = '2821675a5b30130070e4492c11f91a89';\n\n    var contextualSearch = new sn_itsm_va.VAContextualSearchUtil();\n    var response = contextualSearch.search(context, search_term);\n\n    var success = contextualSearch.processSearchResponse(response);\n    if (!success) {\n        vaVars.count = 0;\n        return '';\n    }\n\n    var relevantSearchResults = contextualSearch.processGeneralResults(response, vaVars.limit, 0);\n    vaVars.count = relevantSearchResults.length;\n    if (vaVars.count == 0) {\n        return '';\n    }\n\n    var htmlhead =  gs.getMessage(\"OK. Before creating your incident, here are some KB articles that may help.\") +\n                \"\\r\\n &lt;table style=\\\"width: 100%;\\\"&gt;\\r\\n \";\n    var htmlline =  \"&lt;tr style=\\\"vertical-align:top\\\"&gt;\\r\\n\\t&lt;td&gt;&lt;a target=\\\"_blank\\\" \"+ \n                    \"href=\\\"###LINK###\\\"&gt;\" +\n                    \"###TITLE###&lt;/a&gt;&lt;/td&gt;\\r\\n&lt;/tr&gt;\";\n    var htmltail = \"&lt;/table&gt;\";\n\n    var htmlbuilder = \"\" + htmlhead;\n    for (var i = 0; i &lt; vaVars.count; i++) {\n        var sysId = relevantSearchResults[i].id.split(':')[1];\n        htmlbuilder += \n            htmlline.replace(\"###LINK###\",  gs.getProperty('glide.servlet.uri') + '/' +\n                        gs.getProperty('sn_itsm_va.com.snc.itsm.virtualagent.portal_url') +\n                        '?id=kb_article&amp;sys_id=' + sysId)\n                    .replace(\"###TITLE###\", relevantSearchResults[i].title);\n        \n    }\n    htmlbuilder += htmltail;\n    \n    return htmlbuilder;\n})()\n;\n})();"},{"name":"__silent_Decision_dbd8a602ed0240e5aeac72d801953ace","applicable":"vaVars.previous_graph_node==\"Contextual Search___a476dd02b50e49f99eb2d68ace202aaf\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Decision___dbd8a602ed0240e5aeac72d801953ace\";vaInputs.__silent_Decision_dbd8a602ed0240e5aeac72d801953ace=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Decision___dbd8a602ed0240e5aeac72d801953ace\";null;"},{"name":"__silent_Branch_431d407313d146f8956b6d98a4b963d4","applicable":"vaVars.previous_graph_node==\"Decision___dbd8a602ed0240e5aeac72d801953ace\" &amp;&amp; (function execute() {\n    return (parseInt(vaVars.count) != 0);\n})()\n","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Has Results___431d407313d146f8956b6d98a4b963d4\";vaInputs.__silent_Branch_431d407313d146f8956b6d98a4b963d4=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Has Results___431d407313d146f8956b6d98a4b963d4\";null;"},{"name":"__silent_Branch_260edf071390403f9c3cd6c5d5be3492","applicable":"vaVars.previous_graph_node==\"Decision___dbd8a602ed0240e5aeac72d801953ace\" &amp;&amp; (function execute() {\n    return (parseInt(vaVars.count) == 0);\n})()\n","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"No Results___260edf071390403f9c3cd6c5d5be3492\";vaInputs.__silent_Branch_260edf071390403f9c3cd6c5d5be3492=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"No Results___260edf071390403f9c3cd6c5d5be3492\";null;"},{"name":"is_helpful","applicable":"vaVars.previous_graph_node==\"Has Results___431d407313d146f8956b6d98a4b963d4\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Is Helpful___42a895b6306548429858417b21d5bf53\";(function execute() {\n    if (vaVars.total_results == 1) {\n        return gs.getMessage('Did this KB article resolve your issue?');\n    }\n    return gs.getMessage('Did any of these articles resolve your issue?');\n})()\n","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Is Helpful___42a895b6306548429858417b21d5bf53\";null;"},{"name":"__silent_Decision_09aea3c778884e73b41e5f758dd41e29","applicable":"vaVars.previous_graph_node==\"Is Helpful___42a895b6306548429858417b21d5bf53\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Decision___09aea3c778884e73b41e5f758dd41e29\";vaInputs.__silent_Decision_09aea3c778884e73b41e5f758dd41e29=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Decision___09aea3c778884e73b41e5f758dd41e29\";null;"},{"name":"__silent_ScriptedAction_17026bf8bcf94d6fb0b1f1fb2110e0e9","applicable":"vaVars.previous_graph_node==\"Urgency___b071de2795454a4a8507eb618f4d3476\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Create Incident___17026bf8bcf94d6fb0b1f1fb2110e0e9\";(function execute() {(function execute() {\n    var incident = new GlideRecord('incident');\n    incident.initialize();\n    incident.caller_id = vaInputs.user;\n    incident.short_description = vaInputs.short_description;\n    incident.urgency = vaInputs.urgency;\n    incident.contact_type = 'virtual_agent';\n    vaInputs.create_incident = incident.insert();\n    return vaInputs.create_incident;\n})();})();vaInputs.__silent_ScriptedAction_17026bf8bcf94d6fb0b1f1fb2110e0e9=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Create Incident___17026bf8bcf94d6fb0b1f1fb2110e0e9\";null;"},{"name":"__silent_Branch_b10dc226d63a4fd3a6caf4c447f86ebc","applicable":"vaVars.previous_graph_node==\"Decision___09aea3c778884e73b41e5f758dd41e29\" &amp;&amp; (function execute() {\n    return vaInputs.is_helpful.getValue();\n})()\n","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Helpful___b10dc226d63a4fd3a6caf4c447f86ebc\";vaInputs.__silent_Branch_b10dc226d63a4fd3a6caf4c447f86ebc=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Helpful___b10dc226d63a4fd3a6caf4c447f86ebc\";null;"},{"name":"__silent_Branch_e6d45fb2394b4dab921ecabfb57a20a3","applicable":"vaVars.previous_graph_node==\"Decision___09aea3c778884e73b41e5f758dd41e29\" &amp;&amp; (function execute() {\n    return !vaInputs.is_helpful.getValue();\n})()\n","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Not Helpful___e6d45fb2394b4dab921ecabfb57a20a3\";vaInputs.__silent_Branch_e6d45fb2394b4dab921ecabfb57a20a3=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Not Helpful___e6d45fb2394b4dab921ecabfb57a20a3\";vaInputs.urgency.reset();null;"},{"name":"urgency","applicable":"(vaVars.previous_graph_node==\"Not Helpful___e6d45fb2394b4dab921ecabfb57a20a3\" || vaVars.previous_graph_node==\"No Results___260edf071390403f9c3cd6c5d5be3492\")","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Urgency___b071de2795454a4a8507eb618f4d3476\";(function execute() {vaInputs.__silent_Branch_b10dc226d63a4fd3a6caf4c447f86ebc.reset();vaInputs.__silent_TerminateGoal_aa32c52a30c74e7e90a943a52dc1434d.reset();vaInputs.__silent_Decision_09aea3c778884e73b41e5f758dd41e29.reset();vaInputs.__silent_RecordOutputPrompt_565101089c9f4ab496e9cb795ef60834.reset();vaInputs.__silent_Branch_e6d45fb2394b4dab921ecabfb57a20a3.reset();vaInputs.__silent_ScriptedAction_17026bf8bcf94d6fb0b1f1fb2110e0e9.reset();vaInputs.__silent_OutputPrompt_8d97018a18c04e7c838d64371a3b0be0.reset();})();(function execute() {var promptMsg=null;if (vaVars.noData_75daa0a8097d4adc8950c8c24e1786dd==false) {promptMsg = (function execute() {\n    if (vaVars.count &gt; 0) {\n        return gs.getMessage('OK, what\\'s the urgency of your issue?');\n    }\n    return gs.getMessage('What\\'s the urgency of your issue?');\n})();}else {vaInputs.urgency=\"\";}return promptMsg;})();","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Urgency___b071de2795454a4a8507eb618f4d3476\";(function execute() {var acknowledgeMsg=\"OK, got it.\";if (vaVars.noData_75daa0a8097d4adc8950c8c24e1786dd==false) {acknowledgeMsg = (function execute() {return null;})();}return acknowledgeMsg;})();"},{"name":"__silent_OutputPrompt_8d97018a18c04e7c838d64371a3b0be0","applicable":"vaVars.previous_graph_node==\"Create Incident___17026bf8bcf94d6fb0b1f1fb2110e0e9\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Acknowledgement___8d97018a18c04e7c838d64371a3b0be0\";vaInputs.__silent_OutputPrompt_8d97018a18c04e7c838d64371a3b0be0=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Acknowledgement___8d97018a18c04e7c838d64371a3b0be0\";(function execute() {return gs.getMessage(\"Alright, I've opened your incident and a technician will be assigned. \");})();"},{"name":"__silent_RecordOutputPrompt_565101089c9f4ab496e9cb795ef60834","applicable":"vaVars.previous_graph_node==\"Acknowledgement___8d97018a18c04e7c838d64371a3b0be0\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Incident Card___565101089c9f4ab496e9cb795ef60834\";vaInputs.__silent_RecordOutputPrompt_565101089c9f4ab496e9cb795ef60834=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Incident Card___565101089c9f4ab496e9cb795ef60834\";(function execute() {var recordOutputScriptedGR = (function execute(table) {var cardRecord = (function execute(table) {\n    var gr = new GlideRecord(table);\n    gr.get(vaInputs.create_incident);\n    if(gr) {\n        return gr;\n    }\n})(table);\n;return cardRecord;})('incident');vaInputs.ReferenceVariable_41a5cd15b745f300881bfae7168551b2 = recordOutputScriptedGR;return (function execute() {var output = new global.VaRecordCardOutput({\"category\":\"Category\",\"assignment_group\":\"Assignment group\",\"short_description\":\"Short description\",\"state\":\"State\"});\nreturn output.build(vaInputs.ReferenceVariable_41a5cd15b745f300881bfae7168551b2,'incident');\n})();})();"},{"name":"__silent_TerminateGoal_aa32c52a30c74e7e90a943a52dc1434d","applicable":"(vaVars.previous_graph_node==\"Helpful___b10dc226d63a4fd3a6caf4c447f86ebc\" || vaVars.previous_graph_node==\"Incident Card___565101089c9f4ab496e9cb795ef60834\")","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"End___aa32c52a30c74e7e90a943a52dc1434d\";vaInputs.__silent_TerminateGoal_aa32c52a30c74e7e90a943a52dc1434d=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"End___aa32c52a30c74e7e90a943a52dc1434d\";vaVars.__segment_trigger_01ead5380e1f4a3c8ab63f462de4a01f_done=true;null;"},{"name":"__silent_TerminateGoal_aa32c52a30c74e7e90a943a52dc1434d","applicable":"(vaVars.previous_graph_node==\"Helpful___b10dc226d63a4fd3a6caf4c447f86ebc\" || vaVars.previous_graph_node==\"Incident Card___565101089c9f4ab496e9cb795ef60834\")","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"End___aa32c52a30c74e7e90a943a52dc1434d\";vaInputs.__silent_TerminateGoal_aa32c52a30c74e7e90a943a52dc1434d=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"End___aa32c52a30c74e7e90a943a52dc1434d\";vaVars.__segment_trigger_01ead5380e1f4a3c8ab63f462de4a01f_done=true;null;"}],"variables_update":[],"confirmation_msg":"gs.getMessage(\"Thanks for using our support chat! Have a great day!\")"}],"roles":[],"active":true,"published":true,"score":0.0,"sys_scope":"134450a0b3781300787162ac16a8dc1e","title":"Open IT Ticket"}</definition><fields/><is_system_topic>false</is_system_topic><key_phrases>Open IT Ticket create open incident ticket issue broken help IT</key_phrases><metaphone>ANST PRKN AS TKT KRT HLP APN</metaphone><name>Open IT Ticket</name><published>true</published><roles/><sys_class_name>sys_cs_topic</sys_class_name><sys_created_by>RV</sys_created_by><sys_created_on>2019-04-25 10:06:46</sys_created_on><sys_domain>global</sys_domain><sys_id>d9a5cd15db45f30019565d50cf9619b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open IT Ticket</sys_name><sys_package display_value="ITSM Virtual Agent Conversations" source="sn_itsm_va">134450a0b3781300787162ac16a8dc1e</sys_package><sys_policy/><sys_scope display_value="ITSM Virtual Agent Conversations">134450a0b3781300787162ac16a8dc1e</sys_scope><sys_update_name>sys_cs_topic_d9a5cd15db45f30019565d50cf9619b2</sys_update_name><sys_updated_by>RV</sys_updated_by><sys_updated_on>2019-04-25 10:06:46</sys_updated_on><title>Open IT Ticket</title><vendor display_value="ServiceNow">c2f0b8f187033200246ddd4c97cb0bb9</vendor></sys_cs_topic><sys_variable_value action="delete_multiple" query="document_key=d9a5cd15db45f30019565d50cf9619b2"/></record_update>]]></payload><payload_hash>573589616</payload_hash><remote_update_set display_value="Virtual Agent ">8dffb1e5dbc1370019565d50cf9619d7</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-04-26 09:00:01</sys_created_on><sys_id>ddff35e5dbc1370019565d50cf961903</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16a53f63a1e0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-04-26 09:00:01</sys_updated_on><table/><target_name>Open IT Ticket</target_name><type>Topic</type><update_domain>global</update_domain><update_guid>d9a5cd15f945f300288d268fd751cfb4</update_guid><update_guid_history>d9a5cd15f945f300288d268fd751cfb4:573589616</update_guid_history><update_set/><view/></sys_update_xml></unload>
